@@ -1,4 +1,4 @@
-![image](https://github.com/flaviomicheletti/aws-python/assets/1257048/39e5d564-a17e-4a0a-b701-dd3b191e5b46)
+![image](https://github.com/flaviomicheletti/python-aws/assets/1257048/258389b4-6840-4083-8641-77782e299a5e)
 
 # Python on AWS
 
