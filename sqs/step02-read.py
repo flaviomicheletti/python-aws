@@ -2,7 +2,7 @@ import boto3
 import config
 
 sqs = boto3.client(
-    config.type,
+    'sqs',
     region_name=config.region,
     aws_access_key_id=config.access,
     aws_secret_access_key=config.secret
