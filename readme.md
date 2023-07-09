@@ -47,6 +47,13 @@ To use the scripts in this repository, follow these steps:
 
    ```
    python3 -m venv .venv && . .venv/bin/activate
+
+   //Show the envs:
+   pyenv virtualenvs
+
+   // Choose one
+   pyenv activate py311
+
    pip install -r requirements.txt
    ```
 
